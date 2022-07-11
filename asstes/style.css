@@ -1,0 +1,89 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* -------------banner-section--------------- */
+.banner-section {
+    background-image: url(./Zakat-img/zakat1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 130px 0;
+    margin-bottom: 50px;
+}
+
+.banner-section .banner-content {
+    margin-left: 100px;
+}
+
+.banner-section .banner-content h1 {
+    color: #000000;
+    font-size: 55px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+.banner-section .banner-content .heading-style {
+    color: rgb(223, 18, 18);
+}
+
+.banner-section .banner-content p {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+    margin-bottom: 40px;
+}
+
+.banner-section .banner-content .banner-btn a {
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: rgb(216, 12, 12);
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/* --------------------main-section-------------------- */
+.main-parrent {
+    display: flex;
+}
+
+.main-parrent .main-content {
+    width: 50%;
+    padding: 5%;
+}
+
+.main-parrent .main-content img {
+    height: 430px;
+    width: 450px;
+}
+
+.main-parrent .main-content h2 {
+    font-size: 45px;
+    font-weight: 700;
+    color: #121212;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.main-parrent .main-content p {
+    font-size: 18px;
+    font-weight: 400;
+    color: #707070;
+    margin-bottom: 30px;
+}
+
+.main-parrent .main-content .main-btn a {
+    text-decoration: none;
+    padding: 10px 15px;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: rgb(112, 8, 8);
+}
+
+.main-parrent .side-section {
+    margin-left: 100px;
+}
