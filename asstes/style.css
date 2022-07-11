@@ -9,7 +9,7 @@
     background-image: url(./Zakat-img/zakat1.png);
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 130px 0;
+    padding: 160px 0;
     margin-bottom: 50px;
 }
 
@@ -38,7 +38,7 @@
 
 .banner-section .banner-content .banner-btn a {
     text-decoration: none;
-    padding: 10px 15px;
+    padding: 10px 13px;
     background-color: rgb(216, 12, 12);
     color: #ffffff;
     font-size: 20px;
@@ -77,11 +77,11 @@
 
 .main-parrent .main-content .main-btn a {
     text-decoration: none;
-    padding: 10px 15px;
+    padding: 10px 10px;
     color: #ffffff;
     font-size: 20px;
     font-weight: 600;
-    background-color: rgb(112, 8, 8);
+    background-color: rgb(219, 5, 5);
 }
 
 .main-parrent .side-section {
